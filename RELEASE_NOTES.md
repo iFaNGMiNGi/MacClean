@@ -1,5 +1,5 @@
-## Wamactools v3.0.1
+## WaMacTools v3.0.1
 
 ## 说明
 
-- 🏷️ **应用身份**：内部 Bundle ID 和签名身份统一切换为 Wamactools，旧版用户需要重新下载并按系统提示重新授权
+- 🏷️ **应用显示名**：界面、菜单和发布展示统一为 WaMacTools，内部 Bundle ID 与签名身份保持稳定

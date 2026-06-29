@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.png" width="96" height="96" alt="Wamactools icon">
+  <img src="icon.png" width="96" height="96" alt="WaMacTools icon">
 </p>
 
-<h1 align="center">Wamactools</h1>
+<h1 align="center">WaMacTools</h1>
 
 <p align="center">
   Official downloads for macOS screen cleaning, keyboard cleaning, privacy cover and display test.
@@ -22,7 +22,7 @@
   <img alt="Official" src="https://img.shields.io/badge/Official-Release-0ea5e9?style=flat-square">
 </p>
 
-![Wamactools main window](assets/wamactools-main.png)
+![WaMacTools main window](assets/wamactools-main.png)
 
 ## Download
 
@@ -35,7 +35,7 @@ Requires macOS 14.2 or later.
 
 ## What It Does
 
-Wamactools is a native macOS utility for cleaning and privacy moments:
+WaMacTools is a native macOS utility for cleaning and privacy moments:
 
 - lock keyboard, trackpad and mouse while cleaning your Mac;
 - cover all displays with Privacy Cover Pro while background tasks keep running;
@@ -50,8 +50,8 @@ It does not contain the application source code, build scripts, signing setup, l
 
 ## Safety
 
-Only download Wamactools from the official website or this official release repository. Do not install repackaged builds from unknown sources.
+Only download WaMacTools from the official website or this official release repository. Do not install repackaged builds from unknown sources.
 
 ## License And Brand
 
-Wamactools, its icon, screenshots, website, update feed and product identity are protected brand assets. See [TRADEMARK.md](TRADEMARK.md).
+WaMacTools, its icon, screenshots, website, update feed and product identity are protected brand assets. See [TRADEMARK.md](TRADEMARK.md).

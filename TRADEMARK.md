@@ -1,6 +1,6 @@
 # Trademark And Brand Policy
 
-Wamactools, the Wamactools icon, screenshots, website copy, product appearance,
+WaMacTools, the WaMacTools icon, screenshots, website copy, product appearance,
 release notes, update endpoints, and related brand elements are owned by
 iFaNGMiNGi unless otherwise stated.
 
@@ -10,13 +10,13 @@ without prior written permission.
 
 Examples of prohibited use include:
 
-- publishing an app under the Wamactools name or a confusingly similar name;
+- publishing an app under the WaMacTools name or a confusingly similar name;
 - replacing the author name while keeping the same icon, UI, screenshots, or
   product positioning;
-- using the Wamactools website, update feed, release assets, or screenshots for
+- using the WaMacTools website, update feed, release assets, or screenshots for
   another build;
 - suggesting that an unofficial build is official, endorsed, compatible, or
-  maintained by Wamactools;
+  maintained by WaMacTools;
 - using the brand in ads, app listings, paid downloads, mirrors, or reseller
   pages for an unofficial version.
 
@@ -24,7 +24,7 @@ Permitted descriptive use:
 
 - linking to the official project;
 - reporting bugs or compatibility issues;
-- making factual statements such as "works with Wamactools" when there is no
+- making factual statements such as "works with WaMacTools" when there is no
   implication of endorsement.
 
 Official website: https://mac.wanan7.top
