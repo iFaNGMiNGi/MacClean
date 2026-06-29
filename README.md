@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.png" width="96" height="96" alt="Mac Clean icon">
+  <img src="icon.png" width="96" height="96" alt="Wamactools icon">
 </p>
 
-<h1 align="center">Mac Clean</h1>
+<h1 align="center">Wamactools</h1>
 
 <p align="center">
   Official downloads for macOS screen cleaning, keyboard cleaning, privacy cover and display test.
@@ -13,7 +13,7 @@
   ·
   <a href="README.zh-CN.md">简体中文</a>
   ·
-  <a href="https://github.com/iFaNGMiNGi/MacClean/releases/latest">Latest Release</a>
+  <a href="https://github.com/iFaNGMiNGi/Wamactools/releases/latest">Latest Release</a>
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@
   <img alt="Official" src="https://img.shields.io/badge/Official-Release-0ea5e9?style=flat-square">
 </p>
 
-![Mac Clean main window](assets/mac-clean-main.png)
+![Wamactools main window](assets/wamactools-main.png)
 
 ## Download
 
 Download the latest DMG from:
 
-- Official website: https://mac.wanan7.top
-- GitHub Releases: https://github.com/iFaNGMiNGi/MacClean/releases/latest
+- [Official website](https://mac.wanan7.top)
+- [GitHub Releases](https://github.com/iFaNGMiNGi/Wamactools/releases/latest)
 
 Requires macOS 14.2 or later.
 
 ## What It Does
 
-Mac Clean is a native macOS utility for cleaning and privacy moments:
+Wamactools is a native macOS utility for cleaning and privacy moments:
 
 - lock keyboard, trackpad and mouse while cleaning your Mac;
 - cover all displays with Privacy Cover Pro while background tasks keep running;
@@ -50,8 +50,8 @@ It does not contain the application source code, build scripts, signing setup, l
 
 ## Safety
 
-Only download Mac Clean from the official website or this official release repository. Do not install repackaged builds from unknown sources.
+Only download Wamactools from the official website or this official release repository. Do not install repackaged builds from unknown sources.
 
 ## License And Brand
 
-Mac Clean, its icon, screenshots, website, update feed and product identity are protected brand assets. See [TRADEMARK.md](TRADEMARK.md).
+Wamactools, its icon, screenshots, website, update feed and product identity are protected brand assets. See [TRADEMARK.md](TRADEMARK.md).
